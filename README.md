@@ -1,6 +1,17 @@
-# SQL Internship - Codetech IT Solutions
 
-This repository contains SQL internship tasks for Codetech IT Solutions
+#JOINS PRACTICE
+
+*COMPANY NAME*: CODTECH IT SOLUTIONS
+
+*NAME*: TUSHAR JHA
+
+*INTERN ID*: CT04DM1383
+
+*DOMAIN*: SQL
+
+*DURATION*: 4 WEEKS
+
+*MENTOR*:  NEELA SANTOSH
 
 ## Task 1: SQL Joins
 
